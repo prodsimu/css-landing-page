@@ -167,5 +167,32 @@ a {
 
 .subtext {
     text-align: center;
-    margin-top: 1rem;
+    margin: 1rem 0px;
+}
+
+
+/* quote section */
+
+.quote_background {
+    background-color: #E5E7EB;
+}
+
+
+.quote {
+    padding: 7rem 0px;
+}
+
+.phrase p {
+    margin: 0px;
+    font-size: 36px;
+    font-style: italic;
+}
+
+
+.author p {
+    margin: 0px;
+    display: flex;
+    justify-content: right;
+    font-size: 2rem;
+    font-weight: bold;
 }
