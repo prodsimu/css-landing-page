@@ -211,7 +211,7 @@ a {
     justify-content: space-between;
     background-color: #3882F6;
     border-radius: 8px;
-    margin: 4rem;
+    margin: 6rem;
     padding: 32px 7rem;
 }
 
@@ -241,4 +241,16 @@ a {
     border-color: #F9FAF8;
     border-radius: 8px;
     padding: 6px 24px;
+}
+
+
+/* footer */
+
+.footer p {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0px;
+    padding: 24px;
+    color: #E5E7EB;
 }
